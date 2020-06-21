@@ -5,7 +5,7 @@ Second Line branching
 merging divergent
 rebase
 fetching_changes_sample
-Pull
+Repulling
 
 
 allice fetching_changes_sample
