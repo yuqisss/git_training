@@ -2,5 +2,6 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
 Second Line branching
 merging divergent
+rebase
 fetching_changes_sample
 pull
