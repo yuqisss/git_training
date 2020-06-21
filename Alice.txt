@@ -1,8 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
 
 Second Line branching
 merging divergent
-=======
 fetching_changes_sample
->>>>>>> ca2689bd6e3ac496d460ae4332f8b89d575fbe54
+pull
