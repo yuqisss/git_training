@@ -1,11 +1,13 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
 
 Second Line branching
 merging divergent
 rebase
 fetching_changes_sample
 pull
-=======
->>>>>>> 89c3e8ac6d0e676a67f606566e8b6e3563ac3a60
+
+
 allice fetching_changes_sample
+
+
+Rewrite
